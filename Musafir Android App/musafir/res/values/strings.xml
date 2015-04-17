@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">musafir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Total Numbers</string>
+    
+     <string name="places_prompt">Choose your Destination</string>
+
+    <string-array name="places_arrays">
+        <item>All</item>
+        <item>Restraunt</item>
+        <item>School</item>
+        <item>Hospital</item>
+        <item>Shopping Mall</item>
+        <item>Movie Theatre</item>
+        
+    </string-array>
+    
+</resources>
